@@ -1,5 +1,5 @@
 coverage==4.5.3
-Django==2.2
+Django==2.2.4
 djangorestframework==3.9.3
 elasticsearch==6.3.1
 elasticsearch-dsl==6.3.1
